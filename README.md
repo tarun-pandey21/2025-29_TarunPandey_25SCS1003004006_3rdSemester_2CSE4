@@ -21,9 +21,9 @@
 
 | File | Description |
 |---|---|
-| [`Internship_Report.pdf`](Internship_Report.pdf) | Full internship report, formatted to the IILM University submission template |
-| [`Internship_PPT.pdf`](Internship_PPT.pdf) | 15-slide internship presentation with speaker notes |
-| [`Internship_Certificates.pdf`](Internship_Certificates.pdf) | Cisco Networking Academy course completion certificates issued through IILM University |
+| Internship Report.pdf | Full internship report, formatted to the IILM University submission template |
+| Internship PPT.pdf | 15-slide internship presentation with speaker notes |
+| Internship Certificates.pdf | Cisco Networking Academy course completion certificates issued through IILM University |
 
 The full source code for the NetSage AI application will be added to this repository separately.
 
